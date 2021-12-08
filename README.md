@@ -1,4 +1,4 @@
-This is a reupload. Additional credit to my partner Malcolm Bell, credit to Colgate University for starter code. #Maze-Solver
+This is a reupload. Additional credit to my partner Malcolm Bell, credit to Colgate University for starter code.
 
 # Linux Shell
 
